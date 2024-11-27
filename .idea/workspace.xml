@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d5f6e53-95df-44ce-a91d-87c786fea03b" name="Changes" comment="fix" />
+    <list default="true" id="3d5f6e53-95df-44ce-a91d-87c786fea03b" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/image 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/main 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/scss/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +29,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pRJcBEDEabfnokOlpXInmLd51T" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Projects/Hexlet/Exam",
+    "last_opened_file_path": "D:/Projects/Hexlet/Exam/layout-designer-project-58",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732723032528</updated>
       <workItem from="1732723034347" duration="471000" />
+      <workItem from="1732723524581" duration="589000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <option name="closed" value="true" />
@@ -76,6 +93,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix" />
